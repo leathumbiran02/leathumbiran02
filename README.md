@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
 <h2 align="left">Contact Information</h2>
 
 ### 
@@ -61,3 +62,6 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="left">Recent Projects</h2>
+
+### 
