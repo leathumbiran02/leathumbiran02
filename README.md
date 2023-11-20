@@ -1,11 +1,18 @@
 ###
 
-<h2 align="left">Hello! My name is Lea and I am a final-year software engineering student from South Africa</h2>
+<h2 align="left">Hello 👋!</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h5MHRjd21iczhtczI3NWk2Y21sNmg4NWllcmdqNTd5bmVrdjhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sODyKnD79qLJyfBFjz/giphy.gif"/>
 </div>
 
+###
+
+###
+
+<h2 align="left">About Me</h2>
+
+I'm Lea, a final-year software engineering student from South Africa. <br><br> I am interested in web development, mobile application development and game development. <br>
 ###
 <!--
 **leathumbiran02/leathumbiran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
