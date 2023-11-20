@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Recent Projects</h2>
+<!--<h2 align="left">Recent Projects</h2>-->
 
 ### 
