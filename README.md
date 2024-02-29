@@ -8,6 +8,7 @@
 <h2 align="left" class="no-underline">About Me</h2>
 
 I'm Lea, a graduate software engineer from South Africa. I have interests in Automation Testing, Software Development and Hardware Integration. In my spare time I also play video games. <br>
+I'm Lea, a graduate software engineer from South Africa. I have interests in Automation Testing, Software Development and Hardware Integration. In my spare time I also play video games. <br>
 ###
 
 <h2 align="left" class="no-underline">Languages and Technologies I Use</h2>
