@@ -32,6 +32,10 @@ I'm Lea, a graduate software engineer from South Africa. I have interests in Aut
 
 ###
 
+###
+
+###
+
 <h2 align="left">Contact Information</h2>
 
 ###
