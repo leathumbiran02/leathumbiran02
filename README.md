@@ -24,7 +24,7 @@ I'm Lea, a graduate software engineer from South Africa. I have interests in Aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="30" alt="cypress logo"  />          
 </div>
 
-<h2 align="left">Contact Information</h2>
+<br><br><br><h2 align="left">Contact Information</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lea-t-42b352211/">
