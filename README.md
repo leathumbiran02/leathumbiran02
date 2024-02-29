@@ -29,6 +29,9 @@ I'm Lea, a graduate software engineer from South Africa. I have interests in Aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="30" alt="cypress logo"  />
+  
+            <i class="devicon-cypressio-plain-wordmark"></i>
+          
 </div>
 
 ###
