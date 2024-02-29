@@ -34,7 +34,7 @@ I have interests in Automation Testing, Software Development and Hardware Integr
 
 ###
 
-<h2 align="left">Contact Information</h2>
+<h2 align="left"; border-bottom="none">Contact Information</h2>
 
 ### 
 
