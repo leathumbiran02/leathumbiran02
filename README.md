@@ -1,10 +1,9 @@
+###
 <style>
   .no-underline {
     border-bottom: none; /* Remove underline */
   }
 </style>
-
-###
 
 <h2 align="left" class="no-underline">About Me</h2>
 
