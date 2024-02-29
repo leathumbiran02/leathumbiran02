@@ -2,33 +2,14 @@
 
 <h2 align="left">Hello 👋!</h2>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h5MHRjd21iczhtczI3NWk2Y21sNmg4NWllcmdqNTd5bmVrdjhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sODyKnD79qLJyfBFjz/giphy.gif"/>
-</div>
-
 ###
 
 ###
 
 <h2 align="left">About Me</h2>
 
-I'm Lea, a graduate software engineer from South Africa. <br>
+I'm Lea, a graduate software engineer from South Africa. I have interests in Automation Testing, Software Development and Hardware Integration. In my spare time I also play video games. <br>
 ###
-<!--
-**leathumbiran02/leathumbiran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h2 align="left">Languages I Use</h2>
 
@@ -68,7 +49,5 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<!--<h2 align="left">Recent Projects</h2>-->
 
 ### 
