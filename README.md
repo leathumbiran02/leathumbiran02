@@ -9,8 +9,7 @@ I'm Lea, a graduate software engineer from South Africa. I have interests in Aut
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/primevideo-charlie-hazbin-hotel-vaggie-1sNsGCfoyd3OAu8UtU"  />
-<iframe src="https://giphy.com/embed/1sNsGCfoyd3OAu8UtU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/primevideo-charlie-hazbin-hotel-vaggie-1sNsGCfoyd3OAu8UtU">via GIPHY</a></p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NqeG4yazFoZ2Z6cWNlajdzYWg4NDdnb3R2MTEzNDlxc3R3bGV2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1sNsGCfoyd3OAu8UtU/giphy.gif"  />
 
 ###
 
