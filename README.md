@@ -12,7 +12,7 @@
 
 <h2 align="left">About Me</h2>
 
-I'm Lea, a final-year software engineering student from South Africa. <br>
+I'm Lea, a graduate software engineer from South Africa. <br>
 ###
 <!--
 **leathumbiran02/leathumbiran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
