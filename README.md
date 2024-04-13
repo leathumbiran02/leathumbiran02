@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 
-I'm Lea, a graduate software engineer from South Africa. I have interests in Automation Testing, Software Development and Hardware Integration. In my spare time I also play video games. <br>
+As a dedicated Software Engineer with a passion for community service and continuous professional growth, I specialize in Automation Testing, Software Development, and Hardware Integration. Outside of work, I have a passion for dancing and art, which I believe has the power to unite people from all walks of life. <br>
 
 <h2 align="left">Languages and Technologies I Use</h2>
 
